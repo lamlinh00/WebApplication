@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\demo\\demoWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD4D8C9E-D750-443E-95DC-940102F5361D}|btlltw\\btlltw.csproj|e:\\demo\\demowebapplication\\btlltw\\chitietmathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD4D8C9E-D750-443E-95DC-940102F5361D}|btlltw\\btlltw.csproj|solutionrelative:btlltw\\chitietmathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietMatHang.aspx.cs",
+              "DocumentMoniker": "E:\\demo\\demoWebApplication\\btlltw\\ChiTietMatHang.aspx.cs",
+              "RelativeDocumentMoniker": "btlltw\\ChiTietMatHang.aspx.cs",
+              "ToolTip": "E:\\demo\\demoWebApplication\\btlltw\\ChiTietMatHang.aspx.cs",
+              "RelativeToolTip": "btlltw\\ChiTietMatHang.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:16:37.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
